@@ -56,6 +56,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3350-distribute-elements-into-two-arrays-ii) |
 ## Hash Table
 |  |
@@ -321,6 +322,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2439-longest-cycle-in-a-graph) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -356,6 +358,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0770-couples-holding-hands](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0770-couples-holding-hands) |
 | [0794-swim-in-rising-water](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -374,6 +377,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Prefix Sum
 |  |
 | ------- |
