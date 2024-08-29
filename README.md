@@ -55,6 +55,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0480-sliding-window-median](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0480-sliding-window-median) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1447-jump-game-iv](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1447-jump-game-iv) |
+| [2340-total-appeal-of-a-string](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2340-total-appeal-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +97,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
+| [2340-total-appeal-of-a-string](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2340-total-appeal-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -119,6 +121,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
+| [2340-total-appeal-of-a-string](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2340-total-appeal-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
