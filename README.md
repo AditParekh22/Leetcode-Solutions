@@ -120,6 +120,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Stack
 |  |
 | ------- |
@@ -261,6 +262,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1057-numbers-with-repeated-digits](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1057-numbers-with-repeated-digits) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Recursion
 |  |
 | ------- |
@@ -347,6 +349,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Greedy
 |  |
 | ------- |
@@ -393,6 +396,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -416,6 +420,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0458-poor-pigs](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0458-poor-pigs) |
 | [0489-kth-smallest-instructions](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0489-kth-smallest-instructions) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Bitmask
 |  |
 | ------- |
