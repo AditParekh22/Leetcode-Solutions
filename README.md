@@ -35,6 +35,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1367-maximum-height-by-stacking-cuboids](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1447-jump-game-iv](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1447-jump-game-iv) |
 | [1489-pizza-with-3n-slices](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1503-reducing-dishes) |
@@ -80,6 +81,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1057-numbers-with-repeated-digits](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1057-numbers-with-repeated-digits) |
 | [1332-count-vowels-permutation](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1332-count-vowels-permutation) |
+| [1367-maximum-height-by-stacking-cuboids](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1398-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1398-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1489-pizza-with-3n-slices](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1503-reducing-dishes) |
@@ -229,6 +231,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0354-russian-doll-envelopes](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0935-orderly-queue](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0935-orderly-queue) |
+| [1367-maximum-height-by-stacking-cuboids](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1503-reducing-dishes](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1503-reducing-dishes) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
