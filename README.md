@@ -64,6 +64,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -244,6 +245,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1622-max-value-of-equation](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1622-max-value-of-equation) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [3386-find-edges-in-shortest-paths](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3386-find-edges-in-shortest-paths) |
+| [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -478,6 +480,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3350-distribute-elements-into-two-arrays-ii) |
+| [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 ## Shortest Path
 |  |
 | ------- |
