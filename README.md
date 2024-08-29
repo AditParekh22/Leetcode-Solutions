@@ -22,6 +22,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0330-patching-array) |
 | [0354-russian-doll-envelopes](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
+| [0407-trapping-rain-water-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | ------- |
 | [0127-word-ladder](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -109,6 +111,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0218-the-skyline-problem](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0407-trapping-rain-water-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -119,6 +122,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | ------- |
 | [0174-dungeon-game](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0174-dungeon-game) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 ## Math
 |  |
 | ------- |
