@@ -58,6 +58,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3350-distribute-elements-into-two-arrays-ii) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Hash Table
 |  |
 | ------- |
@@ -252,6 +253,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1057-numbers-with-repeated-digits](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1057-numbers-with-repeated-digits) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Recursion
 |  |
 | ------- |
@@ -305,6 +307,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Merge Sort
 |  |
 | ------- |
@@ -378,6 +381,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -399,6 +403,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | ------- |
 | [0458-poor-pigs](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0458-poor-pigs) |
 | [0489-kth-smallest-instructions](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0489-kth-smallest-instructions) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Bitmask
 |  |
 | ------- |
@@ -414,6 +419,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Rolling Hash
 |  |
 | ------- |
