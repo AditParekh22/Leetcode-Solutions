@@ -53,6 +53,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2703-handling-sum-queries-after-update](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2703-handling-sum-queries-after-update) |
+| [2739-minimize-the-total-price-of-the-trips](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [2340-total-appeal-of-a-string](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2340-total-appeal-of-a-string) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2739-minimize-the-total-price-of-the-trips](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 ## Stack
 |  |
 | ------- |
@@ -150,6 +152,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0863-sum-of-distances-in-tree](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0863-sum-of-distances-in-tree) |
+| [2739-minimize-the-total-price-of-the-trips](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -162,6 +165,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0863-sum-of-distances-in-tree](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1300-critical-connections-in-a-network) |
 | [2439-longest-cycle-in-a-graph](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2439-longest-cycle-in-a-graph) |
+| [2739-minimize-the-total-price-of-the-trips](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 ## Binary Tree
 |  |
 | ------- |
@@ -305,6 +309,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2439-longest-cycle-in-a-graph) |
+| [2739-minimize-the-total-price-of-the-trips](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 ## Topological Sort
 |  |
 | ------- |
