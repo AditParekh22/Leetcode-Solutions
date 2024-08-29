@@ -263,6 +263,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0863-sum-of-distances-in-tree](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1300-critical-connections-in-a-network) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 ## Topological Sort
 |  |
 | ------- |
