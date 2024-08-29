@@ -23,6 +23,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0330-patching-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0330-patching-array) |
 | [0354-russian-doll-envelopes](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0407-trapping-rain-water-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0233-number-of-digit-one](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Stack
 |  |
 | ------- |
@@ -148,6 +150,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Data Stream
 |  |
 | ------- |
