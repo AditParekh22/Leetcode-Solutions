@@ -28,6 +28,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0295-find-median-from-data-stream](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -95,6 +96,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | ------- |
 | [0218-the-skyline-problem](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Ordered Set
 |  |
 | ------- |
@@ -119,4 +121,16 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
+## Sorting
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
