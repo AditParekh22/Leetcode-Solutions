@@ -56,6 +56,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
+| [3350-distribute-elements-into-two-arrays-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3350-distribute-elements-into-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -196,12 +197,14 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | ------- |
 | [0218-the-skyline-problem](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3350-distribute-elements-into-two-arrays-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3350-distribute-elements-into-two-arrays-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2703-handling-sum-queries-after-update](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2703-handling-sum-queries-after-update) |
+| [3350-distribute-elements-into-two-arrays-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3350-distribute-elements-into-two-arrays-ii) |
 ## Line Sweep
 |  |
 | ------- |
@@ -419,4 +422,8 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+## Simulation
+|  |
+| ------- |
+| [3350-distribute-elements-into-two-arrays-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3350-distribute-elements-into-two-arrays-ii) |
 <!---LeetCode Topics End-->
