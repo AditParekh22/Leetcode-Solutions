@@ -46,6 +46,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2393-match-substring-after-replacement](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2393-match-substring-after-replacement) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1034-subarrays-with-k-different-integers](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1447-jump-game-iv](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1447-jump-game-iv) |
 | [2340-total-appeal-of-a-string](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2340-total-appeal-of-a-string) |
+| [2393-match-substring-after-replacement](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2393-match-substring-after-replacement) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,6 +124,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [2340-total-appeal-of-a-string](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2340-total-appeal-of-a-string) |
+| [2393-match-substring-after-replacement](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2393-match-substring-after-replacement) |
 ## Sliding Window
 |  |
 | ------- |
@@ -357,4 +360,8 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## String Matching
+|  |
+| ------- |
+| [2393-match-substring-after-replacement](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2393-match-substring-after-replacement) |
 <!---LeetCode Topics End-->
