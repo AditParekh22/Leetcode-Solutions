@@ -62,6 +62,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
+| [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -245,6 +246,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0218-the-skyline-problem](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -347,6 +349,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3386-find-edges-in-shortest-paths](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3386-find-edges-in-shortest-paths) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -373,6 +376,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
+| [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## Eulerian Circuit
 |  |
 | ------- |
