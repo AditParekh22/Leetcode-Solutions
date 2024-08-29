@@ -23,6 +23,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0330-patching-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0330-patching-array) |
 | [0354-russian-doll-envelopes](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0407-trapping-rain-water-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
@@ -106,6 +107,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0124-binary-tree-maximum-path-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
+| [0794-swim-in-rising-water](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0863-sum-of-distances-in-tree](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1300-critical-connections-in-a-network) |
 ## Binary Tree
@@ -118,6 +120,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0127-word-ladder](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1447-jump-game-iv](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1447-jump-game-iv) |
 ## Divide and Conquer
 |  |
@@ -145,6 +148,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0239-sliding-window-maximum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1489-pizza-with-3n-slices](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1489-pizza-with-3n-slices) |
@@ -160,6 +164,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0174-dungeon-game](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0174-dungeon-game) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 ## Math
 |  |
 | ------- |
@@ -206,6 +211,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0354-russian-doll-envelopes](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
+| [0794-swim-in-rising-water](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 ## Merge Sort
 |  |
@@ -242,6 +248,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 ## Union Find
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 ## Minimum Spanning Tree
 |  |
