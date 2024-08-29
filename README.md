@@ -1,5 +1,11 @@
 # Leetcode-Solutions
-This repo cointain my leetcode solutions
+This repository cointain my leetcode solutions.
+
+I recently started using an extension to push my LeetCode submissions to this GitHub repository. However, I have solved numerous problems across various competitive coding platforms over the years. You can explore my competitive coding profiles for a more comprehensive view of my work:
+
+- **LeetCode**: https://leetcode.com/u/Adit_Parekh/
+- **Codeforces**: https://codeforces.com/profile/AditParekh
+- **InterviewBit**: https://www.interviewbit.com/profile/Mika_/
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
