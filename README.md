@@ -18,6 +18,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,4 +35,12 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
