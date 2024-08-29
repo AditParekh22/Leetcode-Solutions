@@ -36,6 +36,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0174-dungeon-game](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0174-dungeon-game) |
+| [0233-number-of-digit-one](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
 ## Stack
 |  |
 | ------- |
@@ -99,4 +100,12 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [0174-dungeon-game](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0174-dungeon-game) |
+## Math
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
+## Recursion
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
