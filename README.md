@@ -20,6 +20,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0239-sliding-window-maximum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0330-patching-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0330-patching-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -163,4 +164,8 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0330-patching-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0330-patching-array) |
 <!---LeetCode Topics End-->
