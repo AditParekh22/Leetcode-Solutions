@@ -58,6 +58,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3350-distribute-elements-into-two-arrays-ii) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Hash Table
 |  |
@@ -117,6 +118,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [2340-total-appeal-of-a-string](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2340-total-appeal-of-a-string) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 ## Stack
 |  |
 | ------- |
@@ -207,6 +209,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2703-handling-sum-queries-after-update](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2703-handling-sum-queries-after-update) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3350-distribute-elements-into-two-arrays-ii) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 ## Line Sweep
 |  |
 | ------- |
@@ -266,6 +269,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1622-max-value-of-equation](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1622-max-value-of-equation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -307,6 +311,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Merge Sort
 |  |
@@ -381,6 +386,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Prefix Sum
 |  |
