@@ -106,6 +106,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0629-k-inverse-pairs-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0629-k-inverse-pairs-array) |
 | [0741-cherry-pickup](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0741-cherry-pickup) |
+| [0836-race-car](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0836-race-car) |
 | [0863-sum-of-distances-in-tree](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
