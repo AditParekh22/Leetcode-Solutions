@@ -42,6 +42,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1622-max-value-of-equation](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1622-max-value-of-equation) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1034-subarrays-with-k-different-integers](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1622-max-value-of-equation](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1622-max-value-of-equation) |
+| [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 ## Tree
 |  |
 | ------- |
@@ -281,6 +283,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0902-minimum-number-of-refueling-stops](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1489-pizza-with-3n-slices](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1503-reducing-dishes) |
+| [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -314,6 +317,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 ## Counting
 |  |
 | ------- |
