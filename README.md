@@ -95,6 +95,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 ## Stack
 |  |
 | ------- |
@@ -117,6 +118,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 ## Sliding Window
 |  |
 | ------- |
@@ -334,6 +336,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0410-split-array-largest-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
+| [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 ## Counting
 |  |
 | ------- |
