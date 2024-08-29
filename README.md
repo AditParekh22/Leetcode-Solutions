@@ -62,6 +62,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0233-number-of-digit-one](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
+| [0552-student-attendance-record-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0552-student-attendance-record-ii) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0629-k-inverse-pairs-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0629-k-inverse-pairs-array) |
 | [0741-cherry-pickup](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0741-cherry-pickup) |
