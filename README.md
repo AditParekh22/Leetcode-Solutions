@@ -138,6 +138,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [2340-total-appeal-of-a-string](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2340-total-appeal-of-a-string) |
 | [2393-match-substring-after-replacement](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2393-match-substring-after-replacement) |
+| [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 ## Sliding Window
 |  |
@@ -398,6 +399,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [2393-match-substring-after-replacement](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2393-match-substring-after-replacement) |
+| [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 ## Number Theory
 |  |
@@ -406,9 +408,11 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 ## Rolling Hash
 |  |
 | ------- |
+| [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 ## Hash Function
 |  |
 | ------- |
+| [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 <!---LeetCode Topics End-->
