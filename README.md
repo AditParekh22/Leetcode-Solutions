@@ -52,6 +52,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2703-handling-sum-queries-after-update](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2703-handling-sum-queries-after-update) |
 ## Hash Table
 |  |
 | ------- |
@@ -190,6 +191,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | ------- |
 | [0218-the-skyline-problem](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2703-handling-sum-queries-after-update](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2703-handling-sum-queries-after-update) |
 ## Line Sweep
 |  |
 | ------- |
