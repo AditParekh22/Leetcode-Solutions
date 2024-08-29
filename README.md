@@ -119,6 +119,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
+| [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
 ## Stack
 |  |
 | ------- |
@@ -400,6 +401,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
 ## Counting
 |  |
 | ------- |
