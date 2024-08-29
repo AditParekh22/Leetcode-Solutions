@@ -88,6 +88,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0124-binary-tree-maximum-path-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
+| [1300-critical-connections-in-a-network](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1300-critical-connections-in-a-network) |
 ## Binary Tree
 |  |
 | ------- |
@@ -186,6 +187,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
+| [1300-critical-connections-in-a-network](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1300-critical-connections-in-a-network) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 ## Topological Sort
 |  |
@@ -217,4 +219,8 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
