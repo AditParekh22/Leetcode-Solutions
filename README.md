@@ -23,6 +23,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0330-patching-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0330-patching-array) |
 | [0354-russian-doll-envelopes](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0407-trapping-rain-water-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0938-numbers-at-most-n-given-digit-set](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -56,6 +57,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0233-number-of-digit-one](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
+| [0938-numbers-at-most-n-given-digit-set](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1057-numbers-with-repeated-digits](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1057-numbers-with-repeated-digits) |
 | [1332-count-vowels-permutation](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1332-count-vowels-permutation) |
@@ -78,6 +80,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0087-scramble-string](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0127-word-ladder) |
+| [0938-numbers-at-most-n-given-digit-set](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
 ## Sliding Window
 |  |
@@ -152,6 +155,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
+| [0938-numbers-at-most-n-given-digit-set](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1057-numbers-with-repeated-digits](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1057-numbers-with-repeated-digits) |
 ## Recursion
 |  |
@@ -189,6 +193,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0354-russian-doll-envelopes](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
+| [0938-numbers-at-most-n-given-digit-set](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 ## Merge Sort
 |  |
 | ------- |
