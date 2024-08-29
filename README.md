@@ -48,6 +48,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2393-match-substring-after-replacement](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2393-match-substring-after-replacement) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Hash Table
 |  |
 | ------- |
@@ -199,6 +200,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0902-minimum-number-of-refueling-stops](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1489-pizza-with-3n-slices](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1489-pizza-with-3n-slices) |
 | [1622-max-value-of-equation](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1622-max-value-of-equation) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Ordered Set
 |  |
 | ------- |
@@ -225,6 +227,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0935-orderly-queue](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0935-orderly-queue) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1057-numbers-with-repeated-digits](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1057-numbers-with-repeated-digits) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Recursion
 |  |
 | ------- |
@@ -258,6 +261,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Data Stream
 |  |
 | ------- |
@@ -368,4 +372,8 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [2393-match-substring-after-replacement](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2393-match-substring-after-replacement) |
+## Number Theory
+|  |
+| ------- |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 <!---LeetCode Topics End-->
