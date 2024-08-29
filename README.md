@@ -23,6 +23,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0330-patching-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0330-patching-array) |
 | [0354-russian-doll-envelopes](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0407-trapping-rain-water-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0741-cherry-pickup](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0741-cherry-pickup) |
 | [0794-swim-in-rising-water](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -60,6 +61,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0233-number-of-digit-one](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
+| [0741-cherry-pickup](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0741-cherry-pickup) |
 | [0863-sum-of-distances-in-tree](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
@@ -166,6 +168,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0174-dungeon-game](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0174-dungeon-game) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0741-cherry-pickup](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0741-cherry-pickup) |
 | [0794-swim-in-rising-water](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 ## Math
 |  |
