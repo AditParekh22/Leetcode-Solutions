@@ -52,6 +52,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0233-number-of-digit-one](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
+| [1057-numbers-with-repeated-digits](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1057-numbers-with-repeated-digits) |
 | [1332-count-vowels-permutation](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1332-count-vowels-permutation) |
 | [1398-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1398-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1489-pizza-with-3n-slices](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1489-pizza-with-3n-slices) |
@@ -143,6 +144,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
+| [1057-numbers-with-repeated-digits](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1057-numbers-with-repeated-digits) |
 ## Recursion
 |  |
 | ------- |
