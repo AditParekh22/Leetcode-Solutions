@@ -47,6 +47,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2393-match-substring-after-replacement](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2393-match-substring-after-replacement) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,6 +136,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1622-max-value-of-equation](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1622-max-value-of-equation) |
 | [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Tree
 |  |
 | ------- |
@@ -270,6 +272,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Merge Sort
 |  |
 | ------- |
@@ -343,6 +346,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Counting
 |  |
 | ------- |
