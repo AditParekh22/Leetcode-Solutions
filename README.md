@@ -61,6 +61,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
+| [3500-minimum-cost-for-cutting-cake-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -305,6 +306,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [3500-minimum-cost-for-cutting-cake-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Data Stream
 |  |
 | ------- |
@@ -370,6 +372,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2435-shortest-impossible-sequence-of-rolls) |
+| [3500-minimum-cost-for-cutting-cake-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Eulerian Circuit
 |  |
 | ------- |
