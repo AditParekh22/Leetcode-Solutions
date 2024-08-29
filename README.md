@@ -72,6 +72,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 ## Binary Tree
 |  |
 | ------- |
@@ -156,6 +157,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 ## Topological Sort
 |  |
 | ------- |
@@ -168,4 +170,8 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [0330-patching-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0330-patching-array) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
