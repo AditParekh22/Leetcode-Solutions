@@ -166,6 +166,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0124-binary-tree-maximum-path-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0863-sum-of-distances-in-tree](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -180,6 +181,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [2439-longest-cycle-in-a-graph](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2439-longest-cycle-in-a-graph) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [3386-find-edges-in-shortest-paths](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3386-find-edges-in-shortest-paths) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -195,6 +197,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0794-swim-in-rising-water](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1447-jump-game-iv](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1447-jump-game-iv) |
 | [3386-find-edges-in-shortest-paths](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3386-find-edges-in-shortest-paths) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -338,6 +341,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3386-find-edges-in-shortest-paths](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3386-find-edges-in-shortest-paths) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Topological Sort
 |  |
 | ------- |
