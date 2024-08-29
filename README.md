@@ -15,6 +15,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0001-two-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0174-dungeon-game](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0174-dungeon-game) |
 | [0218-the-skyline-problem](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0115-distinct-subsequences](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0174-dungeon-game](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0174-dungeon-game) |
 ## Stack
 |  |
 | ------- |
@@ -93,4 +95,8 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
+## Matrix
+|  |
+| ------- |
+| [0174-dungeon-game](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0174-dungeon-game) |
 <!---LeetCode Topics End-->
