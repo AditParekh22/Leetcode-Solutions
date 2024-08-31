@@ -191,6 +191,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0207-course-schedule](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0685-redundant-connection-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0685-redundant-connection-ii) |
@@ -210,6 +211,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0127-word-ladder) |
+| [0207-course-schedule](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0685-redundant-connection-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0685-redundant-connection-ii) |
@@ -361,6 +363,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0685-redundant-connection-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0685-redundant-connection-ii) |
@@ -378,6 +381,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2439-longest-cycle-in-a-graph](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2439-longest-cycle-in-a-graph) |
 ## Memoization
