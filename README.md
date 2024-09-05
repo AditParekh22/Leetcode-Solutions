@@ -56,6 +56,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2435-shortest-impossible-sequence-of-rolls) |
+| [2450-minimum-replacements-to-sort-the-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2703-handling-sum-queries-after-update](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2703-handling-sum-queries-after-update) |
@@ -295,6 +296,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1638-best-position-for-a-service-centre](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1638-best-position-for-a-service-centre) |
 | [2155-find-missing-observations](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2155-find-missing-observations) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2450-minimum-replacements-to-sort-the-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
@@ -411,6 +413,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2435-shortest-impossible-sequence-of-rolls) |
+| [2450-minimum-replacements-to-sort-the-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
