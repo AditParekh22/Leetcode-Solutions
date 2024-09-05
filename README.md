@@ -43,6 +43,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1489-pizza-with-3n-slices](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1503-reducing-dishes) |
 | [1622-max-value-of-equation](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1622-max-value-of-equation) |
+| [1638-best-position-for-a-service-centre](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1638-best-position-for-a-service-centre) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -291,6 +292,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1057-numbers-with-repeated-digits](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1057-numbers-with-repeated-digits) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [1638-best-position-for-a-service-centre](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1638-best-position-for-a-service-centre) |
 | [2155-find-missing-observations](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2155-find-missing-observations) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
@@ -513,4 +515,12 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [3386-find-edges-in-shortest-paths](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3386-find-edges-in-shortest-paths) |
+## Geometry
+|  |
+| ------- |
+| [1638-best-position-for-a-service-centre](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1638-best-position-for-a-service-centre) |
+## Randomized
+|  |
+| ------- |
+| [1638-best-position-for-a-service-centre](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1638-best-position-for-a-service-centre) |
 <!---LeetCode Topics End-->
