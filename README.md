@@ -47,6 +47,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
+| [2155-find-missing-observations](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2155-find-missing-observations) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -290,6 +291,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1057-numbers-with-repeated-digits](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1057-numbers-with-repeated-digits) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [2155-find-missing-observations](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2155-find-missing-observations) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
@@ -504,6 +506,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 ## Simulation
 |  |
 | ------- |
+| [2155-find-missing-observations](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2155-find-missing-observations) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3350-distribute-elements-into-two-arrays-ii) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 ## Shortest Path
