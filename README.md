@@ -76,6 +76,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0480-sliding-window-median](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0480-sliding-window-median) |
@@ -155,6 +156,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
@@ -174,6 +176,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0480-sliding-window-median) |
