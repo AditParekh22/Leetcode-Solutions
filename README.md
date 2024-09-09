@@ -14,6 +14,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | ------- |
 | [0001-two-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0174-dungeon-game](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0174-dungeon-game) |
 | [0218-the-skyline-problem](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
@@ -105,6 +106,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -153,12 +155,14 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## String
@@ -288,6 +292,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0174-dungeon-game) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
