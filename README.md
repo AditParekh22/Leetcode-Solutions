@@ -70,6 +70,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3350-distribute-elements-into-two-arrays-ii) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3402-minimum-cost-to-equalize-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3402-minimum-cost-to-equalize-array) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
@@ -429,6 +430,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2450-minimum-replacements-to-sort-the-array) |
+| [3402-minimum-cost-to-equalize-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3402-minimum-cost-to-equalize-array) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
@@ -548,4 +550,8 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [2411-spiral-matrix-iv](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
+## Enumeration
+|  |
+| ------- |
+| [3402-minimum-cost-to-equalize-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3402-minimum-cost-to-equalize-array) |
 <!---LeetCode Topics End-->
