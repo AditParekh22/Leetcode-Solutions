@@ -54,6 +54,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2393-match-substring-after-replacement](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2393-match-substring-after-replacement) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2411-spiral-matrix-iv](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2450-minimum-replacements-to-sort-the-array) |
@@ -288,6 +289,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0407-trapping-rain-water-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0741-cherry-pickup](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0741-cherry-pickup) |
 | [0794-swim-in-rising-water](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [2411-spiral-matrix-iv](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Math
 |  |
@@ -522,6 +524,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [2155-find-missing-observations](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3350-distribute-elements-into-two-arrays-ii) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 ## Shortest Path
@@ -536,4 +539,8 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [1638-best-position-for-a-service-centre](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1638-best-position-for-a-service-centre) |
+## Linked List
+|  |
+| ------- |
+| [2411-spiral-matrix-iv](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
