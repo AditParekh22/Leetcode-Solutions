@@ -36,27 +36,16 @@ public:
         int n = arr.size();
         stack<pair<int, int> > st;
         for(int i=n-1; i>=0; i--){
-            // cout << i << endl;
+            while(!st.empty() && st.top().f >= arr[i])
+                st.pop();
+
             if(st.empty()){
-                // cout << "H" << endl;
+                // cout << "L" << endl;
                 right.push_back(n);
             }
             else if(st.top().f < arr[i]){
-                // cout << "K" << endl;
+                // cout << "G" << endl;
                 right.push_back(st.top().s);
-            }
-            else{
-                while(!st.empty() && st.top().f >= arr[i])
-                    st.pop();
-
-                if(st.empty()){
-                    // cout << "L" << endl;
-                    right.push_back(n);
-                }
-                else if(st.top().f < arr[i]){
-                    // cout << "G" << endl;
-                    right.push_back(st.top().s);
-                }
             }
             st.push({arr[i], i});
         }
@@ -67,18 +56,10 @@ public:
         vector<int> left, right;
         leftSmallerEle(arr, left);
         rightSmallerEle(arr, right);
-        
-        // for(auto it : left)
-        //     cout << it << " ";
-        // cout << endl;
-
-        // for(auto it : right)
-        //     cout << it << " ";
-        // cout << endl;
+    
 
         int ans = INT_MIN;
         for(int i=0; i<n; i++){
-            // cout << (right[i] - left[i]-1) * arr[i] << endl;
             ans = max(ans, (right[i] - left[i]-1) * arr[i]);
         }
         return ans;
