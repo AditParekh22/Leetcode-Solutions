@@ -48,6 +48,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
+| [1881-closest-subsequence-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
 | [2155-find-missing-observations](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2155-find-missing-observations) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -95,6 +96,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0042-trapping-rain-water](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [1129-longest-string-chain](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1129-longest-string-chain) |
+| [1881-closest-subsequence-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
@@ -135,6 +137,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1881-closest-subsequence-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [2340-total-appeal-of-a-string](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2340-total-appeal-of-a-string) |
@@ -458,6 +461,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1881-closest-subsequence-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
@@ -494,6 +498,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 ## Bitmask
 |  |
 | ------- |
+| [1881-closest-subsequence-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## String Matching
 |  |
