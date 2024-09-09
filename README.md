@@ -27,6 +27,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0410-split-array-largest-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0480-sliding-window-median](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0480-sliding-window-median) |
 | [0489-kth-smallest-instructions](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0489-kth-smallest-instructions) |
+| [0493-reverse-pairs](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0679-24-game](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0679-24-game) |
 | [0741-cherry-pickup](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0741-cherry-pickup) |
 | [0794-swim-in-rising-water](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
@@ -244,11 +245,13 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | ------- |
 | [0218-the-skyline-problem](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3350-distribute-elements-into-two-arrays-ii) |
 ## Segment Tree
@@ -256,6 +259,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | ------- |
 | [0218-the-skyline-problem](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [2703-handling-sum-queries-after-update](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2703-handling-sum-queries-after-update) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3350-distribute-elements-into-two-arrays-ii) |
@@ -288,6 +292,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | ------- |
 | [0218-the-skyline-problem](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
@@ -373,6 +378,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0354-russian-doll-envelopes](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0794-swim-in-rising-water](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -391,6 +397,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 ## Graph
 |  |
 | ------- |
