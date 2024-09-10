@@ -78,6 +78,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 ## Hash Table
 |  |
@@ -186,6 +187,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [2393-match-substring-after-replacement](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2393-match-substring-after-replacement) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
+| [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 ## Sliding Window
 |  |
@@ -200,6 +202,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 ## Tree
 |  |
 | ------- |
@@ -394,6 +397,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
+| [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -498,6 +502,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 ## Counting
 |  |
 | ------- |
