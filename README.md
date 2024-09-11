@@ -485,6 +485,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1881-closest-subsequence-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
