@@ -164,6 +164,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
@@ -171,6 +172,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## String
@@ -181,6 +183,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0087-scramble-string](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0127-word-ladder) |
+| [0402-remove-k-digits](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0564-find-the-closest-palindrome](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0935-orderly-queue](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0935-orderly-queue) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
@@ -450,6 +453,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [0330-patching-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0330-patching-array) |
+| [0402-remove-k-digits](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0770-couples-holding-hands](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0770-couples-holding-hands) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
