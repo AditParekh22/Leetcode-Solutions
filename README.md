@@ -77,6 +77,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [3402-minimum-cost-to-equalize-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3402-minimum-cost-to-equalize-array) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
@@ -379,6 +380,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Data Stream
 |  |
@@ -405,6 +407,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3436-find-subarray-with-bitwise-or-closest-to-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3436-find-subarray-with-bitwise-or-closest-to-k) |
 | [3466-number-of-subarrays-with-and-value-of-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3466-number-of-subarrays-with-and-value-of-k) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 ## Merge Sort
 |  |
@@ -459,6 +462,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [3402-minimum-cost-to-equalize-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3402-minimum-cost-to-equalize-array) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
