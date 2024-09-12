@@ -49,6 +49,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1881-closest-subsequence-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
 | [2155-find-missing-observations](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2155-find-missing-observations) |
@@ -91,6 +92,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1034-subarrays-with-k-different-integers](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1129-longest-string-chain](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1129-longest-string-chain) |
 | [1447-jump-game-iv](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1447-jump-game-iv) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2340-total-appeal-of-a-string](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2340-total-appeal-of-a-string) |
 | [2393-match-substring-after-replacement](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2393-match-substring-after-replacement) |
@@ -182,6 +184,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1129-longest-string-chain](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1129-longest-string-chain) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [2340-total-appeal-of-a-string](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2340-total-appeal-of-a-string) |
 | [2393-match-substring-after-replacement](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2393-match-substring-after-replacement) |
@@ -483,6 +486,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1881-closest-subsequence-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -508,6 +512,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Backtracking
 |  |
 | ------- |
