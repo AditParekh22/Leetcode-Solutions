@@ -80,6 +80,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
@@ -465,6 +466,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
 ## Eulerian Circuit
 |  |
