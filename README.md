@@ -194,6 +194,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
+| [3567-convert-date-to-binary](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3567-convert-date-to-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -338,6 +339,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3552-find-the-largest-palindrome-divisible-by-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3552-find-the-largest-palindrome-divisible-by-k) |
+| [3567-convert-date-to-binary](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3567-convert-date-to-binary) |
 ## Recursion
 |  |
 | ------- |
