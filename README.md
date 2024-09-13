@@ -66,6 +66,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2530-minimize-maximum-of-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [2703-handling-sum-queries-after-update](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2703-handling-sum-queries-after-update) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
@@ -156,6 +157,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [2340-total-appeal-of-a-string](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2340-total-appeal-of-a-string) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2530-minimize-maximum-of-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
@@ -408,6 +410,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2530-minimize-maximum-of-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
@@ -471,6 +474,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2450-minimum-replacements-to-sort-the-array) |
+| [2530-minimize-maximum-of-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [3402-minimum-cost-to-equalize-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3402-minimum-cost-to-equalize-array) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
@@ -527,6 +531,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2530-minimize-maximum-of-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
