@@ -51,6 +51,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
+| [1829-maximum-units-on-a-truck](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1829-maximum-units-on-a-truck) |
 | [1881-closest-subsequence-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
 | [2155-find-missing-observations](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2155-find-missing-observations) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -381,6 +382,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1503-reducing-dishes](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1503-reducing-dishes) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1829-maximum-units-on-a-truck](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1829-maximum-units-on-a-truck) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
@@ -463,6 +465,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
+| [1829-maximum-units-on-a-truck](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1829-maximum-units-on-a-truck) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2450-minimum-replacements-to-sort-the-array) |
