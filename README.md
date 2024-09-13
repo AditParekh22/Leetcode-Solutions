@@ -41,6 +41,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1129-longest-string-chain](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1129-longest-string-chain) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1367-maximum-height-by-stacking-cuboids) |
+| [1435-xor-queries-of-a-subarray](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1447-jump-game-iv](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1447-jump-game-iv) |
 | [1489-pizza-with-3n-slices](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1503-reducing-dishes) |
@@ -503,6 +504,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1435-xor-queries-of-a-subarray](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1881-closest-subsequence-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
@@ -519,6 +521,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1435-xor-queries-of-a-subarray](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2334-number-of-flowers-in-full-bloom) |
