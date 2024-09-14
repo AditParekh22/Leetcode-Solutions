@@ -13,6 +13,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -110,6 +111,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
@@ -383,6 +385,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0295-find-median-from-data-stream](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
