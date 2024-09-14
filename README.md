@@ -17,6 +17,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0085-maximal-rectangle](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0174-dungeon-game](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0174-dungeon-game) |
+| [0189-rotate-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0218-the-skyline-problem](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -109,6 +110,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [1129-longest-string-chain](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1129-longest-string-chain) |
 | [1881-closest-subsequence-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
@@ -330,6 +332,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0233-number-of-digit-one](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0458-poor-pigs](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0458-poor-pigs) |
 | [0489-kth-smallest-instructions](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0489-kth-smallest-instructions) |
