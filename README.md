@@ -105,6 +105,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1034-subarrays-with-k-different-integers](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1129-longest-string-chain](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1129-longest-string-chain) |
 | [1447-jump-game-iv](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1447-jump-game-iv) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2340-total-appeal-of-a-string](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2340-total-appeal-of-a-string) |
@@ -203,6 +204,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1129-longest-string-chain](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1129-longest-string-chain) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
@@ -521,6 +523,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1881-closest-subsequence-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
@@ -540,6 +543,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1016-subarray-sums-divisible-by-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [2311-minimum-white-tiles-after-covering-with-carpets](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2311-minimum-white-tiles-after-covering-with-carpets) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2334-number-of-flowers-in-full-bloom) |
