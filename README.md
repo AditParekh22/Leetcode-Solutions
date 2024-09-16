@@ -31,6 +31,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0480-sliding-window-median](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0480-sliding-window-median) |
 | [0489-kth-smallest-instructions](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0489-kth-smallest-instructions) |
 | [0493-reverse-pairs](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [0539-minimum-time-difference](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0679-24-game](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0679-24-game) |
 | [0741-cherry-pickup](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0741-cherry-pickup) |
 | [0794-swim-in-rising-water](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
@@ -202,6 +203,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0115-distinct-subsequences](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0402-remove-k-digits](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
+| [0539-minimum-time-difference](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0935-orderly-queue](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0935-orderly-queue) |
@@ -348,6 +350,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0233-number-of-digit-one](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0458-poor-pigs](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0458-poor-pigs) |
 | [0489-kth-smallest-instructions](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0489-kth-smallest-instructions) |
+| [0539-minimum-time-difference](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0679-24-game](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0679-24-game) |
 | [0796-reaching-points](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0796-reaching-points) |
@@ -396,6 +399,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0015-3sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0295-find-median-from-data-stream](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
+| [0539-minimum-time-difference](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0935-orderly-queue](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0935-orderly-queue) |
 | [1129-longest-string-chain](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1129-longest-string-chain) |
