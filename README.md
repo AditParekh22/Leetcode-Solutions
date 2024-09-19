@@ -104,6 +104,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0076-minimum-window-substring](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0480-sliding-window-median](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0480-sliding-window-median) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1129-longest-string-chain](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1129-longest-string-chain) |
@@ -208,6 +209,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0539-minimum-time-difference](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0935-orderly-queue](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0935-orderly-queue) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
@@ -569,6 +571,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 ## Counting
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Backtracking
