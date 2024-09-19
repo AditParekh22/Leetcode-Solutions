@@ -139,6 +139,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0124-binary-tree-maximum-path-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0174-dungeon-game](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0174-dungeon-game) |
 | [0233-number-of-digit-one](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
@@ -205,6 +206,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0115-distinct-subsequences](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0402-remove-k-digits](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0539-minimum-time-difference](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0564-find-the-closest-palindrome) |
@@ -352,6 +354,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | ------- |
 | [0189-rotate-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0233-number-of-digit-one](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0458-poor-pigs](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0458-poor-pigs) |
 | [0489-kth-smallest-instructions](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0489-kth-smallest-instructions) |
 | [0539-minimum-time-difference](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
@@ -377,6 +380,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Queue
 |  |
 | ------- |
@@ -478,6 +482,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
