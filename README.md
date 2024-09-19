@@ -19,6 +19,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0174-dungeon-game](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0174-dungeon-game) |
+| [0179-largest-number](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0218-the-skyline-problem](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
@@ -202,6 +203,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0087-scramble-string](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0127-word-ladder) |
+| [0179-largest-number](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0539-minimum-time-difference](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0564-find-the-closest-palindrome) |
@@ -397,6 +399,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0179-largest-number](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0295-find-median-from-data-stream](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0354-russian-doll-envelopes](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0539-minimum-time-difference](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
@@ -480,6 +483,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0330-patching-array) |
 | [0402-remove-k-digits](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
