@@ -206,6 +206,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0115-distinct-subsequences](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0402-remove-k-digits](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0539-minimum-time-difference](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
@@ -599,6 +600,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [2393-match-substring-after-replacement](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2393-match-substring-after-replacement) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
@@ -613,12 +615,14 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [3290-number-of-subarrays-that-match-a-pattern-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3290-number-of-subarrays-that-match-a-pattern-ii) |
 | [3296-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3296-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
