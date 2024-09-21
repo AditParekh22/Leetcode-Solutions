@@ -670,6 +670,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0620-not-boring-movies](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0620-not-boring-movies) |
 | [1161-project-employees-i](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1258-article-views-i) |
+| [1317-monthly-transactions-i](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1390-average-selling-price) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
