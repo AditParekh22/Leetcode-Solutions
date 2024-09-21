@@ -666,5 +666,6 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
