@@ -663,4 +663,8 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
