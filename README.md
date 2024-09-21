@@ -257,6 +257,7 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [0207-course-schedule](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
+| [0386-lexicographical-numbers](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0685-redundant-connection-ii](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0685-redundant-connection-ii) |
 | [0770-couples-holding-hands](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0770-couples-holding-hands) |
 | [0794-swim-in-rising-water](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
@@ -658,4 +659,8 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
