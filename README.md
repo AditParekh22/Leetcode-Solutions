@@ -672,5 +672,6 @@ I recently started using an extension to push my LeetCode submissions to this Gi
 | [1258-article-views-i](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1258-article-views-i) |
 | [1390-average-selling-price](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1390-average-selling-price) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AditParekh22/Leetcode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
